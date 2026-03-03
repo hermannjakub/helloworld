@@ -177,8 +177,8 @@ int main() {
         std::cout << "| 1. Dodaj transakcje" << std::endl;
         std::cout << "| 2. Wyswietl historie" << std::endl;
         std::cout << "| 3. Wyswietl historie po kategorii" << std::endl;
-        std::cout << "| 4. Zapisz do pliku" << std::endl;
-        std::cout << "| 5. Wczytaj z pliku" << std::endl;
+        std::cout << "| 4. Zapisz do pliku żrodlowego" << std::endl;
+        std::cout << "| 5. Wczytaj z pliku źrodlowego" << std::endl;
         std::cout << "| 0. Wyjscie z programu" << std::endl;
         std::cout << "------------------------------------------------------" << std::endl;
         std::cin >> wybor;
