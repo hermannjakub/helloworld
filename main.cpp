@@ -179,7 +179,7 @@ int main() {
         std::cout << "| 3. Wyswietl historie po kategorii" << std::endl;
         std::cout << "| 4. Zapisz do pliku" << std::endl;
         std::cout << "| 5. Wczytaj z pliku" << std::endl;
-        std::cout << "| 0. Wyjscie" << std::endl;
+        std::cout << "| 0. Wyjscie z programu" << std::endl;
         std::cout << "------------------------------------------------------" << std::endl;
         std::cin >> wybor;
         switch (wybor) {
